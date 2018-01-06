@@ -1,0 +1,4 @@
+*.o
+compressor
+tests/varint_test
+tests/compress_test
